@@ -1,0 +1,7 @@
+flask==3.0.3
+gunicorn==21.2.0
+python-dotenv==1.0.1
+supabase==2.6.0
+postgrest==0.14.11
+gotrue==2.5.4
+storage3==0.7.7
